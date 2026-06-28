@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Move-Item *)",
+      "Bash(julia julia/test_julia.jl)",
+      "Bash(julia test_julia.jl)"
+    ]
+  }
+}
